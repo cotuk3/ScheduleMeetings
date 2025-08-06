@@ -14,7 +14,7 @@ This library provides a way to locate an available time slot for one or more use
 2. Clone the repository  
    
    ```bash
-   git clone https://github.com/your-org/meeting-scheduler.git
+   git clone https://github.com/cotuk3/ScheduleMeetings.git
    cd meeting-scheduler
 
 3. Restore NuGet packages
